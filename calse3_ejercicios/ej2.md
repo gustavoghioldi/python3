@@ -1,0 +1,1 @@
+Cargar una oración por teclado. Mostrar luego cuantos espacios en blanco se ingresaron.
